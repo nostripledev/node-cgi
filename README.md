@@ -1,6 +1,6 @@
 # node-cgi
 
-   Node as CGI-module. <b style="color='red'>PoC, don't use in production.</b>
+   Node as CGI-module. <b style="color:red;">Proof of Concept, do not use in production.</b>
 
 ## Example
 
