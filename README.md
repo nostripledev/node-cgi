@@ -1,6 +1,6 @@
 # node-cgi
 
-Node as CGI-module. Proof of concept, don't use in production.
+    Node as CGI-module. # PoC, don't use in production.
 
 ## Example
 
