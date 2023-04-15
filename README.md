@@ -2,7 +2,7 @@
 
 Node as CGI-module.  
 ```diff 
-- text in red Proof of Concept, do not use in production.
+- Proof of Concept, do not use in production.
 ```
 
 
