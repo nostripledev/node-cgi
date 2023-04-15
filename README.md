@@ -1,10 +1,7 @@
 # node-cgi
 
-   Node as CGI-module. <b style="color: red;">Proof of Concept, do not use in production.</b>
+Node as CGI-module.  ```diff - text in red Proof of Concept, do not use in production.```
 
-```diff
-- text in red
-```
 
 ## Example
 
