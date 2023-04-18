@@ -11,5 +11,6 @@ Node as CGI-module.
 ```php++
 <?php++
     header('Content-Type', 'text/plain');
-    echo('Hello!');
+    $a="Hello!";
+    echo($a);
 ?>
