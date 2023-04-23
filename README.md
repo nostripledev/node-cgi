@@ -11,6 +11,10 @@ Node as CGI-module.
 ```php++
 <?php++
     header('Content-Type', 'text/plain');
-    $a="Hello!";
-    echo($a);
+    $a = 10;
+    $b = 5;
+    $c = $a + $b;
+    $d = $a * $b;
+    echo "La somme de $a et $b est $c\n";
+    echo "Le produit de $a et $b est $d\n";
 ?>
