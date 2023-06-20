@@ -8,7 +8,7 @@ Node as CGI-module.
 
 ## Example
 
-```php++
+```php
 <?php++
   $name = "Alice";
   $age = 27;
