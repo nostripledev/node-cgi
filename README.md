@@ -24,11 +24,11 @@ Node as CGI-module.
 ?>
 <br>
 
-<?if ($age >= 18) {?>
+<?php++ if ($age >= 18) { ?>
   <p>You are an adult</p>
-<?} else {?>
+<?php++ } else { ?>
   <p>You are a minor</p>
-<?}?>
+<?php++ } ?>
 
 <?php++
   $x = 10;
